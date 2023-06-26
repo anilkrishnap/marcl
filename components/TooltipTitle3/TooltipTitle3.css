@@ -1,0 +1,21 @@
+.tooltip-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.text-80 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.tooltip-title.tooltip-title-2 .text-80 {
+  white-space: unset;
+}
+

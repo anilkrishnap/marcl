@@ -1,0 +1,33 @@
+.cell-05-text-32,
+.cell-05-text-33,
+.cell-05-text-31 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 35px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.text-icon-99,
+.text-icon-100,
+.text-icon-98 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-215,
+.label-216,
+.label-214 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

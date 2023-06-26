@@ -1,0 +1,70 @@
+.group,
+.group-1,
+.group-2,
+.group-3,
+.group-4,
+.group-5,
+.group-6,
+.group-7,
+.group-8,
+.group-9,
+.group-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 19px;
+  position: relative;
+  top: 2px;
+  width: 24px;
+}
+
+.rectangle,
+.rectangle-3,
+.rectangle-6,
+.rectangle-9,
+.rectangle-12,
+.rectangle-15,
+.rectangle-18,
+.rectangle-21,
+.rectangle-24,
+.rectangle-27,
+.rectangle-30 {
+  background-color: var(--black);
+  height: 1px;
+  width: 24px;
+}
+
+.rectangle-1,
+.rectangle-4,
+.rectangle-7,
+.rectangle-10,
+.rectangle-13,
+.rectangle-16,
+.rectangle-19,
+.rectangle-22,
+.rectangle-25,
+.rectangle-28,
+.rectangle-31 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 7px;
+  width: 24px;
+}
+
+.rectangle-2,
+.rectangle-5,
+.rectangle-8,
+.rectangle-11,
+.rectangle-14,
+.rectangle-17,
+.rectangle-20,
+.rectangle-23,
+.rectangle-26,
+.rectangle-29,
+.rectangle-32 {
+  background-color: var(--black);
+  height: 1px;
+  margin-top: 8px;
+  width: 24px;
+}
+

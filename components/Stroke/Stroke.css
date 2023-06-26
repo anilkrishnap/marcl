@@ -1,0 +1,43 @@
+.stroke {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 6px;
+  padding: 10px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.override-this {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 196px;
+}
+
+.tooltip-description {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.text-copy {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stroke.stroke-1 {
+  left: 0;
+}
+

@@ -1,0 +1,58 @@
+.table-title,
+.table-title-1,
+.table-title-2,
+.table-title-3,
+.table-title-4,
+.table-title-5,
+.table-header,
+.table-title-6,
+.table-title-7,
+.table-title-8,
+.table-title-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.title,
+.title-1,
+.title-2,
+.title-3,
+.title-4,
+.title-5,
+.title-6,
+.title-7,
+.title-8,
+.title-9,
+.title-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-22,
+.placeholder-text-23,
+.placeholder-text-24,
+.placeholder-text-25,
+.placeholder-text-26,
+.placeholder-text-27,
+.placeholder-text-28,
+.placeholder-text-29,
+.placeholder-text-30,
+.placeholder-text-31,
+.placeholder-text-32 {
+  letter-spacing: 0;
+  line-height: 19px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

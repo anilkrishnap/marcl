@@ -1,0 +1,485 @@
+.screen07 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 799px;
+  width: 1024px;
+}
+
+.overlap-group3-5 {
+  height: 774px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-6 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-16 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-30,
+.item-name-31,
+.label-226,
+.placeholder-text-118 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.all-reports-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-221 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-222 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-223 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x-pending-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-225 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-5 {
+  line-height: 22.8px;
+}
+
+.span1-5 {
+  line-height: 14.5px;
+}
+
+.dashboard-table-initial-pending,
+.show-page-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.table-83 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1004px;
+}
+
+.table-82 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.inputs-42 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  padding: 7px 10px;
+  position: relative;
+}
+
+.checkbox-40 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.row-data-42 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.column-header-2-4 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 84px 0px 0px;
+  position: relative;
+}
+
+.column-header-3-8 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-78 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.table-row-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.table-84,
+.cell-04-text-19,
+.table-85 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-icon-101 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-224 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pagination-10 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  gap: 6px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.pagination-item {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.input-fields-20 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 51px;
+}
+
+.elements-40 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.frame-31-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-115 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -0.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-44 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-67 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 51px;
+  position: relative;
+}
+
+.displaying-5-of-50-rows-10 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page-10 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  position: relative;
+}
+
+.pages-10 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.page-number-50 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-116 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.page-number-51 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 10px 14px;
+  position: relative;
+  width: 35px;
+}
+
+.placeholder-text-117 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-left: -3.50px;
+  margin-right: -3.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-fields-21 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.page-number-52 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.divider-68 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 28px;
+  position: relative;
+}
+
+.text-7-1 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-10 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  height: 19px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown-11 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-30-11 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 21px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-top: -1.00px;
+  min-width: 3px;
+  position: relative;
+}
+
+.icon-66 {
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+

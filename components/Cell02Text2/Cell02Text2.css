@@ -1,0 +1,10 @@
+.cell-02-text-9,
+.cell-02-text-10 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 12px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+

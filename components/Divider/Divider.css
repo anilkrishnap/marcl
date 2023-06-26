@@ -1,0 +1,39 @@
+.divider-11 {
+  background-color: var(--alto);
+  height: 1px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.divider-11.atomsdividersline2-pxblack,
+.divider-11.atomsdividersline2-pxblack-1,
+.divider-11.atomsdividersline2-pxblack-2,
+.divider-11.atomsdividersline2-pxblack-3,
+.divider-11.atomsdividersline2-pxblack-4,
+.divider-11.atomsdividersline2-pxblack-5,
+.divider-11.atomsdividersline2-pxblack-6,
+.divider-11.atomsdividersline2-pxblack-7,
+.divider-11.atomsdividersline2-pxblack-8,
+.divider-11.atomsdividersline2-pxblack-9,
+.divider-11.atomsdividersline2-pxblack-10 {
+  left: 0;
+  min-width: unset;
+  position: absolute;
+  top: 55px;
+  width: 1004px;
+}
+
+.divider-11.divider,
+.divider-11.divider-1,
+.divider-11.divider-2,
+.divider-11.divider-3,
+.divider-11.divider-4,
+.divider-11.divider-5,
+.divider-11.divider-6,
+.divider-11.divider-7,
+.divider-11.divider-8,
+.divider-11.divider-9,
+.divider-11.divider-10 {
+  align-self: stretch;
+}
+

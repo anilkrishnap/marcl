@@ -1,0 +1,12 @@
+.table-89,
+.cell-04-text-23,
+.cell-04-text-24,
+.cell-04-text-25 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+

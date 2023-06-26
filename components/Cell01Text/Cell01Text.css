@@ -1,0 +1,14 @@
+.cell-01-text-22 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-63 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

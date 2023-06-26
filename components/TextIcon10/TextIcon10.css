@@ -1,0 +1,20 @@
+.text-icon-102,
+.text-icon-103 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-227,
+.label-228 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

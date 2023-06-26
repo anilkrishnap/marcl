@@ -1,0 +1,20 @@
+.column-header-6 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: 156px;
+}
+
+.column-header-6.column-header-6-3,
+.column-header-6.column-header-6-4,
+.column-header-6.column-header-6-5 {
+  width: fit-content;
+}
+
+.column-header-6.column-header-4-6 {
+  flex: 1;
+  width: unset;
+}
+

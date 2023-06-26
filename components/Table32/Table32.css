@@ -1,0 +1,15 @@
+.cell-02-text {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 10px 0px 0px;
+  position: relative;
+  width: 149px;
+}
+
+.cell-02-text.cell-02-text-6,
+.cell-02-text.cell-02-text-7,
+.cell-02-text.cell-02-text-8 {
+  width: fit-content;
+}
+

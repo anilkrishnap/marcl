@@ -1,0 +1,226 @@
+.header,
+.header-1,
+.header-2,
+.header-3,
+.header-4,
+.header-5,
+.header-6,
+.header-7,
+.header-8,
+.header-9,
+.header-10 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  mix-blend-mode: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.global-header,
+.global-header-1,
+.global-header-2,
+.global-header-3,
+.global-header-4,
+.global-header-5,
+.global-header-6,
+.global-header-7,
+.global-header-8,
+.global-header-9,
+.global-header-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.marcl-header,
+.marcl-header-1,
+.marcl-header-2,
+.marcl-header-3,
+.marcl-header-4,
+.marcl-header-5,
+.marcl-header-6,
+.marcl-header-7,
+.marcl-header-8,
+.marcl-header-9,
+.marcl-header-10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-3,
+.frame-3-1,
+.frame-3-2,
+.frame-3-3,
+.frame-3-4,
+.frame-3-5,
+.frame-3-6,
+.frame-3-7,
+.frame-3-8,
+.frame-3-9,
+.frame-3-10 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 983.84px;
+}
+
+.global-search-icons,
+.global-search-icons-1,
+.global-search-icons-2,
+.global-search-icons-3,
+.global-search-icons-4,
+.global-search-icons-5,
+.global-search-icons-6,
+.global-search-icons-7,
+.global-search-icons-8,
+.global-search-icons-9,
+.global-search-icons-10 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.moleculesformsearch,
+.moleculesformsearch-1,
+.moleculesformsearch-2,
+.moleculesformsearch-3,
+.moleculesformsearch-4,
+.moleculesformsearch-5,
+.moleculesformsearch-6,
+.moleculesformsearch-7,
+.moleculesformsearch-8,
+.moleculesformsearch-9,
+.moleculesformsearch-10 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 223px;
+}
+
+.elements-1,
+.elements-2,
+.elements-3,
+.elements-4,
+.elements-5,
+.elements-6,
+.elements-7,
+.elements-8,
+.elements-9,
+.elements-10,
+.elements-11 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 223px;
+  position: relative;
+}
+
+.download,
+.download-1,
+.download-2,
+.download-3,
+.download-4,
+.download-5,
+.download-6,
+.download-7,
+.download-8,
+.download-9,
+.download-10 {
+  height: 28.08px;
+  min-width: 24px;
+  position: relative;
+}
+
+.tab-header,
+.tab-header-1,
+.tab-header-2,
+.tab-header-3,
+.tab-header-4,
+.tab-header-5,
+.tab-header-6,
+.tab-header-7,
+.tab-header-8,
+.tab-header-9,
+.tab-header-10 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px 10px;
+  position: relative;
+  width: 1024px;
+}
+
+.tab-1,
+.tab-2,
+.tab-3,
+.tab-4,
+.tab-5,
+.tab-6,
+.tab-7,
+.tab-8,
+.tab-9,
+.tab-10,
+.tab-11 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-1,
+.tab-items-2,
+.tab-items-3,
+.tab-items-4,
+.tab-items-5,
+.tab-items-6,
+.tab-items-7,
+.tab-items-8,
+.tab-items-9,
+.tab-items-10,
+.tab-items-11 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-14,
+.frame-14-1,
+.frame-14-2,
+.frame-14-3,
+.frame-14-4,
+.frame-14-5,
+.frame-14-6,
+.frame-14-7,
+.frame-14-8,
+.frame-14-9,
+.frame-14-10 {
+  height: 4px;
+  min-width: 7px;
+  position: relative;
+}
+

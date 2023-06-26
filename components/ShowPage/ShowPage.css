@@ -1,0 +1,17 @@
+.show-page,
+.show-page-1,
+.show-page-2,
+.show-page-3,
+.show-page-4,
+.show-page-5,
+.show-page-6,
+.show-page-7,
+.show-page-8,
+.show-page-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+

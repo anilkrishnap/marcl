@@ -1,0 +1,42 @@
+.cell-04-text,
+.cell-04-text-1,
+.cell-04-text-2,
+.cell-04-text-3,
+.cell-04-text-4,
+.cell-04-text-5 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-icon-54,
+.text-icon-55,
+.text-icon-56,
+.text-icon-57,
+.text-icon-58,
+.text-icon-59 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-145,
+.label-146,
+.label-147,
+.label-148,
+.label-149,
+.label-150 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+

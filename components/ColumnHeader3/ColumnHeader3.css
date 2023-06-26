@@ -1,0 +1,14 @@
+.column-header-3,
+.column-header-3-1,
+.column-header-3-2,
+.column-header-3-3,
+.column-header-3-4,
+.column-header-3-5 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 0px 3px 0px 10px;
+  position: relative;
+  width: 109px;
+}
+

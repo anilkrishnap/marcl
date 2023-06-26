@@ -1,0 +1,22 @@
+.button,
+.button-1,
+.button-2,
+.button-3,
+.button-4,
+.button-5,
+.button-6,
+.button-7,
+.button-8,
+.button-9 {
+  align-items: center;
+  background-color: var(--black);
+  border-radius: 22px;
+  display: flex;
+  gap: 10px;
+  height: 19px;
+  justify-content: center;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+

@@ -1,0 +1,36 @@
+.frame-14-11,
+.frame-14-12,
+.frame-14-13,
+.frame-14-14,
+.frame-14-15,
+.frame-14-16,
+.frame-14-17,
+.frame-14-18,
+.frame-14-19,
+.frame-14-20,
+.frame-14-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-1,
+.item-name-2,
+.item-name-3,
+.item-name-4,
+.item-name-5,
+.item-name-6,
+.item-name-7,
+.item-name-8,
+.item-name-9,
+.item-name-10,
+.item-name-11 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

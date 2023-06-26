@@ -1,0 +1,144 @@
+.screen08 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 799px;
+  width: 1024px;
+}
+
+.overlap-group3-3 {
+  height: 774px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-4 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-15 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-14 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-28 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.x-pending-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-200 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-201 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-202 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.final-pending-open-a {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-203 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-3 {
+  line-height: 22.8px;
+}
+
+.span1-3 {
+  color: var(--white-lilac);
+  font-family: var(--font-family-neue_haas_grotesk_display_std-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  line-height: 14.5px;
+}
+

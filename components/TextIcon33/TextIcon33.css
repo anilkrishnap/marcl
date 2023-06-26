@@ -1,0 +1,33 @@
+.text-icon-60 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: 72px;
+}
+
+.label-151 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.text-icon-60.text-icon-70,
+.text-icon-60.text-icon-70-1,
+.text-icon-60.text-icon-70-2,
+.text-icon-60.text-icon-70-3 {
+  width: fit-content;
+}
+
+.text-icon-60.text-icon-70-1 .label-151,
+.text-icon-60.text-icon-70-2 .label-151,
+.text-icon-60.text-icon-70-3 .label-151,
+.text-icon-60.text-icon-70 .label-151 {
+  flex: unset;
+  width: fit-content;
+}
+

@@ -1,0 +1,20 @@
+.atomsavatardefault {
+  background-image: url(/static/img/combined-shape-8.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.atomsavatardefault.atomsavatardefault-1,
+.atomsavatardefault.atomsavatardefault-3,
+.atomsavatardefault.atomsavatardefault-4,
+.atomsavatardefault.atomsavatardefault-5,
+.atomsavatardefault.atomsavatardefault-6,
+.atomsavatardefault.atomsavatardefault-7,
+.atomsavatardefault.atomsavatardefault-8,
+.atomsavatardefault.atomsavatardefault-9,
+.atomsavatardefault.atomsavatardefault-10 {
+  background-image: url(/static/img/combined-shape.svg);
+}
+

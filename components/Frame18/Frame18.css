@@ -1,0 +1,55 @@
+.frame-18,
+.frame-18-1,
+.frame-18-2,
+.frame-18-3,
+.frame-18-4,
+.frame-18-5,
+.frame-18-6,
+.frame-18-7,
+.frame-18-8,
+.frame-18-9,
+.frame-18-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.frame-32,
+.frame-32-1,
+.frame-32-2,
+.frame-32-3,
+.frame-32-4,
+.frame-32-5,
+.frame-32-6,
+.frame-32-7,
+.frame-32-8,
+.frame-32-9,
+.frame-32-10 {
+  flex: 1;
+  height: 15px;
+  min-width: 171px;
+  position: relative;
+}
+
+.placeholder-text,
+.placeholder-text-1,
+.placeholder-text-2,
+.placeholder-text-3,
+.placeholder-text-4,
+.placeholder-text-5,
+.placeholder-text-6,
+.placeholder-text-7,
+.placeholder-text-8,
+.placeholder-text-9,
+.placeholder-text-10 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+

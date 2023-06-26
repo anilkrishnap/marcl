@@ -1,0 +1,46 @@
+.atomsicon2019notification {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.group-22 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 1px;
+  min-height: 23px;
+  padding: 0.0px 0;
+  position: relative;
+  width: 23px;
+}
+
+.shape {
+  height: 18px;
+  width: 23px;
+}
+
+.path {
+  height: 3px;
+  margin-left: 0;
+  width: 6px;
+}
+
+.atomsicon2019notification.atomsicon2019notification-1 .path,
+.atomsicon2019notification.atomsicon2019notification-2 .path,
+.atomsicon2019notification.atomsicon2019notification-3 .path,
+.atomsicon2019notification.atomsicon2019notification-4 .path,
+.atomsicon2019notification.atomsicon2019notification-5 .path,
+.atomsicon2019notification.atomsicon2019notification-6 .path,
+.atomsicon2019notification.atomsicon2019notification-7 .path,
+.atomsicon2019notification.atomsicon2019notification-10 .path {
+  margin-left: unset;
+}
+
+.atomsicon2019notification.atomsicon2019notification-8 .path,
+.atomsicon2019notification.atomsicon2019notification-9 .path {
+  margin-left: unset;
+  margin-right: 0;
+}
+

@@ -1,0 +1,21 @@
+.dropdown-10 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 242px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.menu {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+

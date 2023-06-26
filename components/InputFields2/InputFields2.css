@@ -1,0 +1,77 @@
+.input-fields-10,
+.input-fields-11,
+.input-fields-12,
+.input-fields-13,
+.input-fields-14,
+.input-fields-15,
+.input-fields-16,
+.input-fields-17,
+.input-fields-18,
+.input-fields-19 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.page-number-40,
+.page-number-41,
+.page-number-42,
+.page-number-43,
+.page-number-44,
+.page-number-45,
+.page-number-46,
+.page-number-47,
+.page-number-48,
+.page-number-49 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.placeholder-text-105,
+.placeholder-text-106,
+.placeholder-text-107,
+.placeholder-text-108,
+.placeholder-text-109,
+.placeholder-text-110,
+.placeholder-text-111,
+.placeholder-text-112,
+.placeholder-text-113,
+.placeholder-text-114 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.divider-55,
+.divider-56,
+.divider-57,
+.divider-58,
+.divider-59,
+.divider-60,
+.divider-61,
+.divider-62,
+.divider-63,
+.divider-64 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  margin-bottom: -2.00px;
+  min-width: 28px;
+  position: relative;
+}
+

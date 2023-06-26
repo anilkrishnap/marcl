@@ -1,0 +1,44 @@
+.cell-04-text-12-1 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.text-icon-88 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: 72px;
+}
+
+.label-181 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-right: -1.00px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cell-04-text-12-1.cell-04-text-12-2 .text-icon-88,
+.cell-04-text-12-1.cell-04-text-12-3 .text-icon-88,
+.cell-04-text-12-1.cell-04-text-12-4 .text-icon-88,
+.cell-04-text-12-1.cell-04-text-12-5 .text-icon-88,
+.cell-04-text-12-1.cell-04-text-12 .text-icon-88 {
+  width: fit-content;
+}
+
+.cell-04-text-12-1.cell-04-text-12-2 .label-181,
+.cell-04-text-12-1.cell-04-text-12-3 .label-181,
+.cell-04-text-12-1.cell-04-text-12-4 .label-181,
+.cell-04-text-12-1.cell-04-text-12-5 .label-181,
+.cell-04-text-12-1.cell-04-text-12 .label-181 {
+  margin-right: unset;
+}
+

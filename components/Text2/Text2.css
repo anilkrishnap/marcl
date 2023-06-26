@@ -1,0 +1,38 @@
+.text-11,
+.text-12,
+.text-13,
+.text-14,
+.text-15,
+.text-16,
+.text-17,
+.text-18,
+.text-19,
+.text-20,
+.text-21 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-39,
+.label-40,
+.label-41,
+.label-42,
+.label-43,
+.label-44,
+.label-45,
+.label-46,
+.label-47,
+.label-48,
+.label-49 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+

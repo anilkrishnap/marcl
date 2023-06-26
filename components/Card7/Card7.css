@@ -1,0 +1,41 @@
+.all-reports-a {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-5 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-6 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.all-reports-a.initial-report-a {
+  height: unset;
+}
+

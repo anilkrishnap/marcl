@@ -1,0 +1,26 @@
+.search-input {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 150px;
+}
+
+.elements-12 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 150px;
+  position: relative;
+}
+
+.search-input.search-input-6 {
+  border-color: var(--alto);
+}
+

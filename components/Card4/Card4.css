@@ -1,0 +1,47 @@
+.final-pending-open {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-197 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-198 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-2 {
+  line-height: 22.8px;
+}
+
+.span1-2 {
+  line-height: 14.5px;
+}
+
+.label-199 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+

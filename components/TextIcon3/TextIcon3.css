@@ -1,0 +1,28 @@
+.text-icon-23,
+.text-icon-24,
+.text-icon-25,
+.text-icon-26,
+.text-icon-27,
+.text-icon-28 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-115,
+.label-116,
+.label-117,
+.label-118,
+.label-119,
+.label-120 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+

@@ -1,0 +1,58 @@
+.status-icon-big {
+  background-color: var(--thunderbird);
+  border-radius: 10px;
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.overlap-group-11 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 6.52px;
+  display: flex;
+  height: 13px;
+  left: 3px;
+  min-width: 13px;
+  padding: 1.3px 1.4px;
+  position: relative;
+  top: 3px;
+}
+
+.group-57 {
+  align-items: flex-start;
+  background-image: url(/static/img/shape-10.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 10px;
+  padding: 2.4px 4.6px;
+  width: 10px;
+}
+
+.path-23 {
+  height: 4px;
+  margin-left: 0.2px;
+  width: 1px;
+}
+
+.rectangle-39 {
+  background-color: var(--thunderbird);
+  height: 1px;
+  margin-left: 0.2px;
+  width: 1px;
+}
+
+.status-icon-big.status-icon-big-1 .group-57 {
+  background-image: url(/static/img/shape-80.svg);
+}
+
+.status-icon-big.status-icon-big-3 .group-57 {
+  background-image: url(/static/img/shape-79.svg);
+}
+
+.status-icon-big.status-icon-big-4 .group-57 {
+  background-image: url(/static/img/shape-92.svg);
+}
+

@@ -1,0 +1,75 @@
+.rectangle-5-1 {
+  background-color: var(--clementine);
+  height: 14px;
+  min-width: 6px;
+  position: relative;
+}
+
+.rectangle-5-1.rectangle-5-2,
+.rectangle-5-1.rectangle-5-4,
+.rectangle-5-1.rectangle-5-6,
+.rectangle-5-1.rectangle-5-8,
+.rectangle-5-1.rectangle-5-10,
+.rectangle-5-1.rectangle-5-13,
+.rectangle-5-1.rectangle-5-15,
+.rectangle-5-1.rectangle-5-17 {
+  background-color: var(--yellow-orange);
+}
+
+.rectangle-5-1.scroller,
+.rectangle-5-1.scroller-1,
+.rectangle-5-1.scroller-2,
+.rectangle-5-1.scroller-4,
+.rectangle-5-1.scroller-5,
+.rectangle-5-1.scroller-6,
+.rectangle-5-1.scroller-7,
+.rectangle-5-1.scroller-8,
+.rectangle-5-1.scroller-9,
+.rectangle-5-1.scroller-10,
+.rectangle-5-1.scroller-11 {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 44px;
+  margin-bottom: -19.00px;
+  margin-top: -19.00px;
+  min-width: 6px;
+  position: relative;
+  transform: rotate(90deg);
+}
+
+.rectangle-5-1.rectangle-5-18 {
+  background-color: var(--fun-green);
+}
+
+.rectangle-5-1.state {
+  background-color: var(--white);
+  height: 39px;
+}
+
+.rectangle-5-1.state-1 {
+  background-color: var(--black);
+  height: 39px;
+  min-width: 6px;
+  position: relative;
+}
+
+.rectangle-5-1.scroller-3 {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 44px;
+  min-width: 6px;
+  position: relative;
+}
+
+.rectangle-5-1.rectangle-5-20,
+.rectangle-5-1.rectangle-5-21 {
+  background-color: var(--yellow-orange);
+  height: 14px;
+  min-width: 6px;
+  position: relative;
+}
+
+.rectangle-5-1.rectangle-5-11 {
+  background-color: var(--alto);
+}
+

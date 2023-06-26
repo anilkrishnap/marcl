@@ -1,0 +1,37 @@
+.cell-05-text-8 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 23px 0px 10px;
+  position: relative;
+  width: 82px;
+}
+
+.cell-05-text-8.cell-05-text-9,
+.cell-05-text-8.cell-05-text-11,
+.cell-05-text-8.cell-05-text-13,
+.cell-05-text-8.cell-05-text-15,
+.cell-05-text-8.cell-05-text-17,
+.cell-05-text-8.cell-05-text-19 {
+  padding: 0px 25px 0px 10px;
+}
+
+.cell-05-text-8.cell-05-text-22,
+.cell-05-text-8.cell-05-text-23 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 25px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.cell-05-text-8.cell-05-text-20 {
+  padding: 0px 25px 0px 10px;
+  width: fit-content;
+}
+
+.cell-05-text-8.cell-05-text-21 {
+  padding: 0px 10px;
+}
+

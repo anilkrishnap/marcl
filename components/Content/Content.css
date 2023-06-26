@@ -1,0 +1,38 @@
+.content,
+.content-1,
+.content-2,
+.content-3,
+.content-4,
+.content-5,
+.content-6,
+.content-7,
+.content-8,
+.content-9,
+.content-10 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  position: relative;
+  width: fit-content;
+}
+
+.text-59,
+.text-60,
+.text-61,
+.text-62,
+.text-63,
+.text-64,
+.text-65,
+.text-66,
+.text-67,
+.text-68,
+.text-69 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

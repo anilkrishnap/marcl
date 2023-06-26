@@ -1,0 +1,50 @@
+.dropdown,
+.dropdown-1,
+.dropdown-2,
+.dropdown-3,
+.dropdown-4,
+.dropdown-5,
+.dropdown-6,
+.dropdown-7,
+.dropdown-8,
+.dropdown-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.rectangle-30-1,
+.rectangle-30-2,
+.rectangle-30-3,
+.rectangle-30-4,
+.rectangle-30-5,
+.rectangle-30-6,
+.rectangle-30-7,
+.rectangle-30-8,
+.rectangle-30-9,
+.rectangle-30-10 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 19px;
+  min-width: 1px;
+  position: relative;
+}
+
+.icon-53,
+.icon-54,
+.icon-55,
+.icon-56,
+.icon-57,
+.icon-58,
+.icon-59,
+.icon-60,
+.icon-61,
+.icon-62 {
+  height: 10px;
+  min-width: 10px;
+  position: relative;
+}
+

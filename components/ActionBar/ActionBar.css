@@ -1,0 +1,63 @@
+.action-bar-1 {
+  align-self: stretch;
+  background-color: var(--white);
+  height: 40px;
+  min-width: 1004px;
+  position: relative;
+}
+
+.overlap-group1-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: -1px;
+  min-height: 41px;
+  position: relative;
+  width: 1006px;
+}
+
+.setting-1 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  margin-top: 6px;
+  position: relative;
+  width: 984px;
+}
+
+.template-1 {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.dropdown-input-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  height: 30px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 154px;
+}
+
+.elements-33 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 154px;
+  position: relative;
+}
+
+.action-bar-1.action-bar-4 .dropdown-input-1 {
+  border-color: var(--alto);
+}
+

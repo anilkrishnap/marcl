@@ -1,0 +1,9 @@
+.cell-03-text-9 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 5px;
+  padding: 0px 7px 0px 10px;
+  position: relative;
+}
+

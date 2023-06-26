@@ -1,0 +1,128 @@
+.screen09 {
+  align-items: flex-start;
+  background-color: var(--white-lilac);
+  border: 1px none;
+  display: flex;
+  height: 799px;
+  width: 1024px;
+}
+
+.overlap-group3-4 {
+  height: 774px;
+  position: relative;
+  width: 1024px;
+}
+
+.dashview-5 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 0px 20px;
+  position: absolute;
+  top: 0;
+  width: fit-content;
+}
+
+.tabs-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  padding: 10px 459px 10px 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.tab-16 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.tab-items-15 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.item-name-29 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.cards-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 1004px;
+}
+
+.link {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-217 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-218 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-219 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-220 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.span0-4 {
+  line-height: 22.8px;
+}
+
+.span1-4 {
+  line-height: 14.5px;
+}
+

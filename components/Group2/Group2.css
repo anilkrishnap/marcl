@@ -1,0 +1,70 @@
+.group-34,
+.group-36,
+.group-37,
+.group-38,
+.group-39,
+.group-40,
+.group-42,
+.group-43,
+.group-44,
+.group-45,
+.group-46 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 18px;
+}
+
+.overlap-group,
+.overlap-group-1,
+.overlap-group-2,
+.overlap-group-3,
+.overlap-group-4,
+.overlap-group-5,
+.overlap-group-6,
+.overlap-group-7,
+.overlap-group-8,
+.overlap-group-9,
+.overlap-group-10 {
+  height: 18px;
+  position: relative;
+  width: 18px;
+}
+
+.group-18-1,
+.group-18-2,
+.group-18-3,
+.group-18-4,
+.group-18-5,
+.group-18-6,
+.group-18-7,
+.group-18-8,
+.group-18-9,
+.group-18-10,
+.group-18-11 {
+  background-image: url(/static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+
+.path-12,
+.path-13,
+.path-14,
+.path-15,
+.path-16,
+.path-17,
+.path-18,
+.path-19,
+.path-20,
+.path-21,
+.path-22 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+

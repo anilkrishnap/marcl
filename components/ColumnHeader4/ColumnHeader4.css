@@ -1,0 +1,42 @@
+.column-header-4,
+.column-header-4-1,
+.column-header-4-2,
+.column-header-4-3,
+.column-header-4-4,
+.column-header-4-5 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.text-31,
+.text-32,
+.text-33,
+.text-34,
+.text-35,
+.text-36 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  padding: 5px 0px;
+  position: relative;
+}
+
+.label-59,
+.label-60,
+.label-61,
+.label-62,
+.label-63,
+.label-64 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+

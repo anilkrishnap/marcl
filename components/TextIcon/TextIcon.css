@@ -1,0 +1,28 @@
+.text-icon-12 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-94 {
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.text-icon-12.text-icon-11 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  margin-right: -0.25px;
+  padding: 5px 0px;
+  position: relative;
+  width: fit-content;
+}
+

@@ -1,0 +1,18 @@
+.bar,
+.bar-1,
+.bar-2,
+.bar-3,
+.bar-4,
+.bar-5,
+.bar-6,
+.bar-7,
+.bar-8,
+.bar-9,
+.bar-10 {
+  align-self: stretch;
+  background-color: var(--thunderbird);
+  height: 4px;
+  min-width: 38px;
+  position: relative;
+}
+

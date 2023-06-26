@@ -1,0 +1,70 @@
+.table-29,
+.cell-08-text-3,
+.table-30,
+.cell-08-text-4,
+.table-31,
+.cell-08-text-5,
+.cell-08-text,
+.table-32,
+.cell-08-text-6,
+.table-33,
+.cell-08-text-7,
+.table-34,
+.cell-08-text-8,
+.table-35,
+.cell-08-text-9,
+.table-36,
+.cell-08-text-10,
+.table-37,
+.cell-08-text-11,
+.cell-08-text-1,
+.cell-08-text-2,
+.table-28,
+.table-38,
+.cell-08-text-12,
+.table-39,
+.cell-08-text-13,
+.table-40,
+.cell-08-text-14,
+.table-41,
+.cell-08-text-15,
+.table-42,
+.cell-08-text-16,
+.table-43,
+.cell-08-text-17,
+.table-44,
+.cell-08-text-18,
+.table-45,
+.cell-08-text-19,
+.table-46,
+.cell-08-text-20,
+.table-47,
+.cell-08-text-21,
+.table-48,
+.cell-08-text-22,
+.table-49,
+.cell-08-text-23 {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  padding: 0px 5px 0px 0px;
+  position: relative;
+  width: fit-content;
+}
+
+.view,
+.view-1,
+.view-2,
+.view-3,
+.view-4,
+.view-5,
+.view-6,
+.view-7,
+.view-8,
+.view-9,
+.view-10 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+

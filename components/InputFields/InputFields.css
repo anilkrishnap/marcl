@@ -1,0 +1,110 @@
+.input-fields,
+.input-fields-1,
+.input-fields-2,
+.input-fields-3,
+.input-fields-4,
+.input-fields-5,
+.input-fields-6,
+.input-fields-7,
+.input-fields-8,
+.input-fields-9 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 29px;
+  padding: 7px 0px 0px;
+  position: relative;
+  width: 51px;
+}
+
+.elements-23,
+.elements-24,
+.elements-25,
+.elements-26,
+.elements-27,
+.elements-28,
+.elements-29,
+.elements-30,
+.elements-31,
+.elements-32 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-bottom: -1.00px;
+  position: relative;
+}
+
+.frame-31,
+.frame-31-1,
+.frame-31-2,
+.frame-31-3,
+.frame-31-4,
+.frame-31-5,
+.frame-31-6,
+.frame-31-7,
+.frame-31-8,
+.frame-31-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.placeholder-text-55,
+.placeholder-text-56,
+.placeholder-text-57,
+.placeholder-text-58,
+.placeholder-text-59,
+.placeholder-text-60,
+.placeholder-text-61,
+.placeholder-text-62,
+.placeholder-text-63,
+.placeholder-text-64 {
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.atomsicon2019close-23,
+.atomsicon2019close-24,
+.atomsicon2019close-25,
+.atomsicon2019close-26,
+.atomsicon2019close-27,
+.atomsicon2019close-28,
+.atomsicon2019close-29,
+.atomsicon2019close-30,
+.atomsicon2019close-31,
+.atomsicon2019close-32 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.divider-34,
+.divider-35,
+.divider-36,
+.divider-37,
+.divider-38,
+.divider-39,
+.divider-40,
+.divider-41,
+.divider-42,
+.divider-43 {
+  align-self: stretch;
+  background-color: var(--black);
+  height: 1px;
+  min-width: 51px;
+  position: relative;
+}
+

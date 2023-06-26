@@ -1,0 +1,19 @@
+.status-indicator,
+.status-indicator-1,
+.status-indicator-2,
+.status-indicator-3,
+.status-indicator-4,
+.status-indicator-5,
+.status-indicator-10,
+.status-indicator-6,
+.status-indicator-7,
+.status-indicator-8,
+.status-indicator-9 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+

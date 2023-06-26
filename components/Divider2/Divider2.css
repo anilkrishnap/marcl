@@ -1,0 +1,66 @@
+.atomsdividersline2-pxblack-11 {
+  align-self: stretch;
+  background-color: var(--black);
+  border: 0px none;
+  height: 5px;
+  margin-bottom: -1.00px;
+  margin-left: -1.00px;
+  margin-right: -1.00px;
+  min-width: 1006px;
+  position: relative;
+}
+
+.atomsdividersline2-pxblack-11.divider-12,
+.atomsdividersline2-pxblack-11.divider-14,
+.atomsdividersline2-pxblack-11.divider-16,
+.atomsdividersline2-pxblack-11.divider-18,
+.atomsdividersline2-pxblack-11.divider-20,
+.atomsdividersline2-pxblack-11.divider-22,
+.atomsdividersline2-pxblack-11.divider-26,
+.atomsdividersline2-pxblack-11.divider-28,
+.atomsdividersline2-pxblack-11.divider-30,
+.atomsdividersline2-pxblack-11.divider-32 {
+  align-self: unset;
+  height: 3px;
+  margin-bottom: unset;
+  margin-left: unset;
+  margin-right: unset;
+  min-width: unset;
+  position: unset;
+  width: 1006px;
+}
+
+.atomsdividersline2-pxblack-11.divider-13,
+.atomsdividersline2-pxblack-11.divider-15,
+.atomsdividersline2-pxblack-11.divider-17,
+.atomsdividersline2-pxblack-11.divider-19,
+.atomsdividersline2-pxblack-11.divider-21,
+.atomsdividersline2-pxblack-11.divider-23,
+.atomsdividersline2-pxblack-11.divider-27,
+.atomsdividersline2-pxblack-11.divider-29,
+.atomsdividersline2-pxblack-11.divider-31,
+.atomsdividersline2-pxblack-11.divider-33 {
+  margin-top: -2px;
+}
+
+.atomsdividersline2-pxblack-11.atomsdividersline2-pxblack-17 {
+  border: unset;
+}
+
+.atomsdividersline2-pxblack-11.divider-24 {
+  align-self: unset;
+  border: unset;
+  height: 3px;
+  margin-bottom: unset;
+  margin-left: unset;
+  margin-right: unset;
+  min-width: unset;
+  position: unset;
+  width: 1006px;
+}
+
+.atomsdividersline2-pxblack-11.divider-25 {
+  border: unset;
+  margin-top: -2px;
+}
+

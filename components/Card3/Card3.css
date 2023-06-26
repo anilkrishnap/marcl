@@ -1,0 +1,43 @@
+.al-pending,
+.all-reports {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black-haze);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  height: 91px;
+  padding: 10px;
+  position: relative;
+}
+
+.label-191,
+.label-194 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 14.5px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-192,
+.label-195 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.label-193,
+.label-196 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+}
+

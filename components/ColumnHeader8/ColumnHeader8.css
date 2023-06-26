@@ -1,0 +1,19 @@
+.column-header-8,
+.column-header-8-1,
+.column-header-8-2,
+.column-header-8-3,
+.column-header-8-4,
+.column-header-8-5,
+.column-header-8-6,
+.column-header-8-7,
+.column-header-8-8,
+.column-header-8-9,
+.column-header-8-10 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  padding: 0px 15px 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
