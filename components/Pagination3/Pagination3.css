@@ -12,8 +12,8 @@
   align-self: stretch;
   background-color: var(--white);
   display: flex;
-  gap: 6px;
-  padding: 0px 10px;
+  gap: 0;
+  padding: 0;
   position: relative;
 }
 
