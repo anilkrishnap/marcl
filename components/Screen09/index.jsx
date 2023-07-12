@@ -91,7 +91,13 @@ function Screen09(props) {
                   <p className="label-219 neuehaasgroteskdisplaystd-bold-terracotta-12px">{label11}</p>
                 </div>
               </Link>
-              <Card7 />
+              <Link to="/screen09">
+              <div class="x-pending-2" style={{background:'black'}}>
+                <div class="label-200 neuehaasgroteskdisplaystd-regular-normal-black-14px" style={{color:'white'}}>Final Pending - Restored</div>
+                <div class="label-201 neuehaasgroteskdisplaystd-bold-black-24px" style={{color:'white'}}>14</div>
+                <div class="label-202 neuehaasgroteskdisplaystd-bold-terracotta-12px">12 Unassigned Reports</div>
+                </div>
+              </Link>
             </div>
             <DashboardTable {...dashboardTableProps} />
           </div>

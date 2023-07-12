@@ -154,7 +154,16 @@ function Screen07(props) {
                   <div className="label-223 neuehaasgroteskdisplaystd-bold-aqua-forest-12px">{label6}</div>
                 </div>
               </Link>
-              <Card7 className={card7Props.className} />
+
+              <Link to="/screen07">
+                <div className="x-pending-3" style={{background:'black'}}>
+                  <div className="label-221 neuehaasgroteskdisplaystd-regular-normal-black-14px" style={{color:'white'}}>Initial Pending</div>
+                  <div className="label-222 neuehaasgroteskdisplaystd-bold-black-24px" style={{color:'white'}}>22</div>
+                  <div className="label-223 neuehaasgroteskdisplaystd-bold-aqua-forest-12px">12 Non-automated Reports</div>
+                </div>
+              </Link>
+
+              {/* <Card7 className={card7Props.className} /> */}
               <Link to="/screen08">
                 <div className="x-pending-3">
                   <div className="label-221 neuehaasgroteskdisplaystd-regular-normal-black-14px">{label7}</div>
